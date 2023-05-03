@@ -1,4 +1,6 @@
-# CS536Final_Project: Introduction to Machine Learning
+# CS536Final_Project
+
+CS536: Introduction to Machine Learning
 
 Reproduce SN-GAN
 
