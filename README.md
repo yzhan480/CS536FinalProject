@@ -1,4 +1,4 @@
-# CS536Final_Project
+# CS536_Final_Project
 
 CS536: Introduction to Machine Learning
 
