@@ -1,5 +1,6 @@
-# CS536Final_Project
-Reproduce SNGAN
+# CS536Final_Project: Introduction to Machine Learning
+
+Reproduce SN-GAN
 
 Bnumber: 00961692
 
